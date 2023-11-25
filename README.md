@@ -10,3 +10,6 @@ python3 untangle.py -t target
 
 e.g., python3 untangle.py -t www.example.com
 ```
+
+## License
+Untangle is [licensed](LICENSE) under MIT license.
