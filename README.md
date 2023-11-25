@@ -6,6 +6,6 @@ Untangle was written as part of the "Untangle: Multi-Layer Web Server Fingerprin
 
 # Usage
 
-python3 -t target
+python3 untangle.py -t target
 
-e.g., python3 -t www.example.com
+e.g., python3 untangle.py -t www.example.com
