@@ -73,7 +73,7 @@ def redirect_check(response, server_n, path):
         return False, server_n, path
 
 def send_request(target, port, path, request, from_redirection, depth=0):
-    """ sends requests """
+    """ sends a request and return the response """
 
     try:
         if isinstance(path, str):
